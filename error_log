@@ -96,3 +96,8 @@
 [06-May-2017 16:21:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php on line 32
 [06-May-2017 16:21:29 America/Chicago] Fatal error: syntax error, unexpected '}'
 [06-May-2017 16:21:29 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php:32] 
+[16-May-2017 21:01:44 America/Chicago] PHP Parse error:  syntax error, unexpected ''password'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/costrander/public_html/328/mypets-templating-starter/index.php on line 14
+[16-May-2017 21:02:09 America/Chicago] PHP Parse error:  syntax error, unexpected ''password'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/costrander/public_html/328/mypets-templating-starter/index.php on line 14
+[16-May-2017 21:02:19 America/Chicago] PHP Parse error:  syntax error, unexpected ''password'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/costrander/public_html/328/mypets-templating-starter/index.php on line 14
+[16-May-2017 21:02:21 America/Chicago] PHP Parse error:  syntax error, unexpected ''password'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/costrander/public_html/328/mypets-templating-starter/index.php on line 14
+[16-May-2017 21:02:45 America/Chicago] PHP Parse error:  syntax error, unexpected ''password'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/costrander/public_html/328/mypets-templating-starter/index.php on line 14
